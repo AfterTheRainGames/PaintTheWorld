@@ -8,15 +8,15 @@
 ---
 
 ## Key Contributions as a Gameplay Engineer  
-- **Concept Development**  
+### **Concept Development**  
   - Designed an engaging, action-based gameplay loop focused on dynamic mouse movement and puzzle-solving through the use of paint.  
   - Incorporated different sections of the main level and mechanics to challenge player dexterity and creativity.
 
-- **Player Movement and Mechanics**  
+### **Player Movement and Mechanics**  
   - Developed responsive mouse movement registration system to ensure fluid player control.  
   - Integrated player feedback systems, such as visual cues and sound effects, to enhance the player's experience.
 
-- **Audio and Aesthetics**  
+### **Audio and Aesthetics**  
   - Integrated sound effects for paint-related actions.
   - Developed a vibrant, artistic environment to complement the colorful paint mechanic.
 
