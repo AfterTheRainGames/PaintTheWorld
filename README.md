@@ -26,12 +26,12 @@
 
 ### **Paint-Interaction Triggers**  
   - **Issue**: Paint didn't always interact correctly with environmental elements, leading to frustrating gameplay.  
-    - **Solution**: Refined trigger logic and added visual feedback (such as NPC render reactions) to ensure interactions were intuitive and rewarding.
+    - **Solution**: Replaced mesh colliders with sphere colliders to allow NPCs to have a more lenient hitbox.
 
 ---
 
 ## Reflection  
-Paint the World allowed me to 
+Paint the World was an exciting project where I explored creating a continuous, auto-scrolling shooter. With only one long level, I had the opportunity to craft a seamless experience that gradually increases in difficulty while keeping the gameplay challenging and engaging. This project is a testament to the power of simple mechanics and careful level design.
 
 ---
 
