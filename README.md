@@ -36,4 +36,4 @@ Paint the World allowed me to
 ---
 
 ## Play the Game  
-[Play Paint the World on Itch.io]((https://aftertheraingames.itch.io/paint-the-world))
+[Play Paint the World on Itch.io](https://aftertheraingames.itch.io/paint-the-world)
