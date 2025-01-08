@@ -24,7 +24,7 @@
 
 ## Challenges Overcome  
 
-- **Paint-Interaction Triggers**  
+### **Paint-Interaction Triggers**  
   - **Issue**: Paint didn't always interact correctly with environmental elements, leading to frustrating gameplay.  
     - **Solution**: Refined trigger logic and added visual feedback (such as NPC render reactions) to ensure interactions were intuitive and rewarding.
 
