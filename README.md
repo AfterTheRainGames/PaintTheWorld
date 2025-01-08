@@ -19,6 +19,7 @@
 ### **Audio and Aesthetics**  
   - Integrated sound effects for paint-related actions.
   - Developed a vibrant, artistic environment to complement the colorful paint mechanic.
+  - Included a very upbeat background song to convey the happy vibe of the enviornment to the player.
 
 ---
 
