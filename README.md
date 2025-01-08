@@ -10,7 +10,7 @@
 ## Key Contributions as a Gameplay Engineer  
 ### **Concept Development**  
   - Designed an engaging, action-based gameplay loop focused on dynamic mouse movement and puzzle-solving through the use of paint.  
-  - Incorporated different sections of the main level and mechanics to challenge player dexterity and creativity.
+  - Focused on a single, continuous level to provide a cohesive, uninterrupted gameplay experience. The level scales in difficulty, with obstacles becoming harder to shoot past as the level progresses.
 
 ### **Player Movement and Mechanics**  
   - Developed responsive mouse movement registration system to ensure fluid player control.  
