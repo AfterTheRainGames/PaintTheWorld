@@ -1,6 +1,6 @@
 # Paint the World  
 **Game Jam Submission**  
-*DEFENSE Theme | Limitation: Minimal Control | August 16-19, 2024*
+*PAINT Theme | Limitation: Minimal Control | August 16-19, 2024*
 
 ## Overview  
 **Paint the World** challenges players to traverse colorful environments, shooting paint at NPCs in order to restore color to the world. Aim your mouse to fire paint balls at NPCs located in tricky situations in order to return them their color.
